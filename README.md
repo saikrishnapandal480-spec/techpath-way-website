@@ -26,8 +26,8 @@ A modern, responsive frontend web platform designed for B.Tech and engineering s
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/saikrishnapandal480-spec/techpath-way.git
-   cd techpath-way
+   git clone https://github.com/saikrishnapandal480-spec/btech-career.git
+   cd btech-career
    ```
 
 2. **Install dependencies**:
