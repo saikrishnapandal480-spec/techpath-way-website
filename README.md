@@ -26,8 +26,8 @@ A modern, responsive frontend web platform designed for B.Tech and engineering s
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/saikrishnapandal480-spec/instagram-page.git
-   cd instagram-page
+   git clone https://github.com/saikrishnapandal480-spec/techpath-way.git
+   cd techpath-way
    ```
 
 2. **Install dependencies**:
